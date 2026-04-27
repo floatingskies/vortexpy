@@ -5,14 +5,6 @@
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge" alt="Python">
 </p>
 
-<h1 align="center">
-  <pre>
- ╦╔═╔═╗╦ ╦╔╗ ╔═╗╦═╗╔═╗╦ ╦╦╔═╔═╗
- ╠╩╗║ ║║║║╠╩╗╔═╝╠╦╝║  ╠═╣╠╩╗╚═╗
- ╩ ╩╚═╝╚╩╝╩ ╩╚═╝╩╚═╚═╝╩ ╩╩ ╩╚═╝
-  </pre>
-</h1>
-
 <p align="center"><strong>High-Performance Python AOT Compiler — Powered by LLVM</strong></p>
 
 <p align="center">
