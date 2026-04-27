@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: vortexpy
+Version: 1.0.0
+Summary: VortexPy — A high-performance Python AOT compiler powered by LLVM
+Author: VortexPy Team
+License: MIT
+Keywords: compiler,python,llvm,aot,native,performance
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Software Development :: Compilers
+Classifier: Topic :: System :: Hardware :: Symmetric Multi-processing
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: llvmlite>=0.42.0
+Requires-Dist: rich>=13.0.0
+Requires-Dist: click>=8.0.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: pytest-benchmark>=4.0; extra == "dev"
